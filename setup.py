@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name="Pycco",
+    name="PyccoTex",
     version="0.5.1",
     description="""A Python port of Docco: the original quick-and-dirty,
         hundred-line-long, literate-programming-style documentation generator.
@@ -12,7 +12,7 @@ setup(
     packages=find_packages(),
     entry_points={
         'console_scripts': [
-            'pycco = pycco.main:main',
+            'pyccotex = pycco.main:main',
         ]
     },
     install_requires=['markdown', 'pygments', 'pystache', 'smartypants'],

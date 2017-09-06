@@ -1,16 +1,8 @@
-```
-888888b.
-888   Y88b
-888    888
-888   d88P  888  888   .d8888b  .d8888b  .d88b.
-8888888P"   888  888  d88P"    d88P"    d88""88b
-888         888  888  888      888      888  888
-888         Y88b 888  Y88b.    Y88b.    Y88..88P
-888          "Y88888   "Y8888P  "Y8888P  "Y88P"
-                 888
-            Y8b d88P
-             "Y88P"
-```
+
+PyccoTex is a close fork of Pycco which supports TeX-like math expressions thanks to MathJax.
+The only difference is slight change in the html-header of each created document.
+
+The command is just called: pyccotex 
 
 Pycco is a Python port of Docco: the original quick-and-dirty, hundred-line-
 long, literate-programming-style documentation generator. For more information,

@@ -1,0 +1,14 @@
+setup.py
+PyccoTex.egg-info/PKG-INFO
+PyccoTex.egg-info/SOURCES.txt
+PyccoTex.egg-info/dependency_links.txt
+PyccoTex.egg-info/entry_points.txt
+PyccoTex.egg-info/requires.txt
+PyccoTex.egg-info/top_level.txt
+pycco/__init__.py
+pycco/compat.py
+pycco/generate_index.py
+pycco/main.py
+pycco_resources/__init__.py
+tests/__init__.py
+tests/test_pycco.py

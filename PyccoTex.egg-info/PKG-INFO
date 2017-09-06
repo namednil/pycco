@@ -1,0 +1,12 @@
+Metadata-Version: 1.0
+Name: PyccoTex
+Version: 0.5.1
+Summary: A Python port of Docco: the original quick-and-dirty,
+        hundred-line-long, literate-programming-style documentation generator.
+        
+Home-page: https://pycco-docs.github.io/pycco/
+Author: Zach Smith
+Author-email: subsetpark@gmail.com
+License: UNKNOWN
+Description: UNKNOWN
+Platform: UNKNOWN
